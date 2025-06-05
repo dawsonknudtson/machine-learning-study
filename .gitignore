@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Example notebooks (keeping local / kinda useless imo)
+notebooks/01_data_exploration.ipynb
+notebooks/02_linear_regression.ipynb
+
+# Data - avoid committing large datasets
+data/raw/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model artifacts
+*.joblib
+*.model
+models/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env 
