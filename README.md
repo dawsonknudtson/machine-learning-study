@@ -1,5 +1,5 @@
 # Machine Learning Study Environment
-# LLM Generated
+# LLM Generated (kinda, changed a little bit but mostly summarized)
 
 A well-organized workspace for machine learning experiments, notes, and projects.
 
